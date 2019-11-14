@@ -1,4 +1,4 @@
-# React Store
+# React Ecommerce
 # An online ecommerce store
 # Built with Reactjs, PHP and Bootstrap4
 
